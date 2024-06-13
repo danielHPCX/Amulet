@@ -32,7 +32,7 @@ Power consumption data
 Galery
 ======
 
-<img src="https://github.com/danielHPCX/Amulet/blob/main/Images/Schematic_image.png" height="720" width="1000">
+<img src="https://github.com/danielHPCX/Amulet/blob/main/Images/Schematic_image.png" height="490" width="720">
 <img src="https://github.com/danielHPCX/Amulet/blob/main/Images/Board_image.png" height="720" width="720">
 <img src="https://github.com/danielHPCX/Amulet/blob/main/Images/foto%20dianteira.jpg" height="760" width="600">
 <img src="https://github.com/danielHPCX/Amulet/blob/main/Images/foto%20traseira.jpg" height="760" width="600">
